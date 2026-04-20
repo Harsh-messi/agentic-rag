@@ -1,0 +1,138 @@
+question,expected_route,predicted_route,similarity,answer
+What is AI regulation in the EU?,factual,synthesis,0.68,".U. has signed into law the European Union's new AI regulation, which will be implemented in the com"
+What is the purpose of AI laws?,factual,synthesis,0.28,"EA's new AI law, which is expected to be signed into law by the end of the year, will be the first o"
+What are high-risk AI systems?,factual,synthesis,0.11,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+What does AI Act focus on?,factual,synthesis,0.55,"The EU AI Act defines AI as ""a system of decision-making, decision-making, decision-making, decision"
+What is AI governance?,factual,synthesis,0.48,"verse to the EU's model is due to its lack of a common approach to AI regulation.
+
+2.2 European Unio"
+Compare AI regulations across countries,synthesis,synthesis,0.24,"software and open source hardware.
+
+Open source hardware: The EU AI Act includes limited exemptions "
+Summarize AI policies globally,synthesis,synthesis,0.26,"echnology and are working together to address the challenges of AI development.
+
+2.2 Global AI
+
+The "
+What are similarities in AI laws?,synthesis,synthesis,0.16,"vernacular is still large.
+
+The European Un
+
+s of early 2024, over 60 countries have published natio"
+How do regions manage AI risk?,synthesis,factual,0.16,"nd to the EU's approach to AI.
+
+The EU AI Act is the first of its kind in the EU and is the first to"
+Analyze AI regulation differences,synthesis,synthesis,0.08,"vn't been able to agree on a single EU AI regulation.
+
+2.2 US
+
+The US AI Act defines the risk catego"
+What is quantum computing?,out_of_scope,synthesis,0.05,"
+
+- AI in critical 
+
+- AI in critical 
+
+- AI in critical 
+
+- AI in critical 
+
+- AI in critical "
+Who is Elon Musk?,out_of_scope,synthesis,0.1,"ATE: February 2026
+
+COUNTRY: EU
+
+Agency: EU
+
+Agency: EU
+
+Agency: EU
+
+Agency: EU
+
+Agency: EU
+
+Agency:"
+What is cricket?,out_of_scope,synthesis,0.1,"ATE: February 2026
+
+PROCEEDINGS:
+
+The European Union's AI Act, formally adopted in 2023, represents "
+Explain gravity,out_of_scope,factual,0.15,"- NIST (general AI 
+
+Question: Explain gravity
+
+- NIST (general AI 
+
+Question: Explain gravity
+
+- NI"
+What is blockchain?,out_of_scope,synthesis,0.03,"that the EU will be more willing to take on the challenge of AI in the future.""
+
+The US has been a l"
